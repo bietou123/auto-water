@@ -1,0 +1,16 @@
+# PlatformIO 构建产物
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+
+# 固件与二进制
+*.bin
+*.elf
+*.hex
+*.map
+*.dblite
+
+# 本地杂物
+dump.bin
+tmp_docx.txt
